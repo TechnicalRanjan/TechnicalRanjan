@@ -1,7 +1,5 @@
 ### Hi there, I'm Priyesh Ranjan - aka [TechnicalRanjan][website] 👋 
 
-[![Website](https://img.shields.io/website?label=technicalranjan.com&style=for-the-badge&url=https%3A%2F%2Ftechnicalranjan.com)](https://technicalranjan.com)
-
 ## I'm a Freelance, Developer, Youtuber and Teacher!!
 
 - 🔭 I just launched my first course: [How To Scrape Website Using  Node Js][course]!
